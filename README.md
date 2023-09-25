@@ -23,7 +23,7 @@
 
 Este proyecto es una aplicación web que proporciona información detallada sobre diferentes tipos de jabones naturales y ecológicos.
 
-![Alt text](download-1.jpg)
+![Imagen jabones2](download-1.jpg)
 
 
 
